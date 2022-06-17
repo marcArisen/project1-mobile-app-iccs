@@ -1,6 +1,15 @@
 # project1
 
-A new Flutter project.
+This application has been adapted from the general note from the previous presentation to CS Note-taking Application that aims to help CS folks to organize their lecture in each subject 
+
+Added features (from the last presentation)
+- edit mode available now
+- organize notes like the tree hierachy, divided by each subject
+- change delete button
+- added summary page
+- change a little of UI (including delete 1 floating button)
+- styling the app
+- change some database structure
 
 ## Getting Started
 

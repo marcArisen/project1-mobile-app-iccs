@@ -4,7 +4,7 @@ This application has been adapted from the general note from the previous presen
 
 Added features (from the last presentation)
 - edit mode available now
-- organize notes like the tree hierachy, divided by each subject
+- organize notes like the tree hierarchy, divided by each subject
 - change delete button
 - added summary page
 - change a little of UI (including delete 1 floating button)
